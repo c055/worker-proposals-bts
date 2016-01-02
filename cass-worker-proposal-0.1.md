@@ -1,5 +1,6 @@
 *CI/UI/UX Design / Web Development
 ==================================================
+[Worker Proposal 1.10.46](http://cryptofresh.com/workers)
 
 Preface
 -------
@@ -148,14 +149,15 @@ Some references for recently joined community members:
 Worker Creation
 ---------------
 
-    create_worker cass "2016-01-15T00:00:00" "2016-04-15T00:00:00" 2124000000 "Graphic Design / UI/UX Design / Web Development" "https://github.com/cassiopaia/worker-proposals-bts" {"type":"vesting","pay_vesting_period_days":1} false
+    create_worker cass "2016-01-15T00:00:00" "2016-04-15T00:00:00" 2730700000 "Graphic Design / UI/UX Design / Web Development" "https://github.com/cassiopaia/worker-proposals-bts" {"type":"vesting","pay_vesting_period_days":1} false
 
 ---
 
 
 Changelog
 ---------
-01/02/2016 - references added / preface update
+01/02/2016 - references added / preface update / added Worker Prop
+
 
 PGP
 ---------
