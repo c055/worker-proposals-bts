@@ -1,5 +1,5 @@
 
-![header](https://raw.githubusercontent.com/cassiopaia/worker-proposals-bts/master/assets/images/header-prop3.png)
+![header](https://raw.githubusercontent.com/cassiopaia/worker-proposals-bts/master/assets/images/header@2x.png)
 
 
 Preface
