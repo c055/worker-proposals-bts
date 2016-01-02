@@ -57,6 +57,12 @@ References: Daniel Larimer, Stan Larimer, Fabian Schuh, Sigve Kvalsvik, Valetine
 
 ---
 
+
+Worker Creation
+---------------
+
+    create_worker cass "2016-01-15T00:00:00" "2016-04-15T00:00:00" 2730700000 "Graphic Design / UI/UX Design / Web Development" "https://github.com/cassiopaia/worker-proposals-bts" {"type":"vesting","pay_vesting_period_days":1} false
+
 Some references for recently joined community members:
 
 **INFOGRAPHICS**
@@ -145,11 +151,6 @@ Some references for recently joined community members:
    * and more…
 
 
-
-Worker Creation
----------------
-
-    create_worker cass "2016-01-15T00:00:00" "2016-04-15T00:00:00" 2730700000 "Graphic Design / UI/UX Design / Web Development" "https://github.com/cassiopaia/worker-proposals-bts" {"type":"vesting","pay_vesting_period_days":1} false
 
 ---
 
