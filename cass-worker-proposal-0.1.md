@@ -1,6 +1,5 @@
 *CI/UI/UX Design / Web Development
 ==================================================
-[Worker Proposal 1.10.46](http://cryptofresh.com/workers)
 
 Preface
 -------
@@ -120,9 +119,9 @@ Some references for recently joined community members:
    * Dacsunlimited.com
       * www.dacsunlimited.com
    * Bytemaster's blog
-    * www.bytemaster.github.io
+      * www.bytemaster.github.io
    * OpenLedger
-     * www.openledger.info
+      * www.openledger.info
 
 
 * **GUI Developement**
