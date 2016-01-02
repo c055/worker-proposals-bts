@@ -161,7 +161,7 @@ Changelog
 
 PGP
 ---------
-This message has been signed with PGP. The cryptographic signature can be found in this git repository and you can verify it with gpg `--verify cass-worker-proposal-0.1.md.sig`.
+This message has been signed with PGP. The cryptographic signature can be found in this git repository and you can verify it with gpg `--verify cass-worker-proposal-1.14.27.md.sig`.
 
 ---
 <div style="font-size: 8px">*CI = Corporate Identity / UI = User Interface / UX = User Experience</div>
