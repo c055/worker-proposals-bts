@@ -15,4 +15,4 @@ My tasks include branding and website related work as well as user interface des
 
 The complete proposal
 ------
-[Cass Worker Proposal](https://github.com/cassiopaia/worker-proposals-bts/blob/master/cass-worker-proposal-0.1.md)
+[Cass Worker Proposal](https://github.com/cassiopaia/worker-proposals-bts/blob/master/cass-worker-proposal-1.14.27.md)
