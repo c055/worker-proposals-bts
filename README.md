@@ -20,4 +20,4 @@ The complete proposal
 
 
 ------
-[Worker Proposal 1.14.28 @ cryptofresh](http://cryptofresh.com/workers)
+[Worker Proposal 1.14.28 @ cryptofresh](http://cryptofresh.com/workers){:target="_blank"}

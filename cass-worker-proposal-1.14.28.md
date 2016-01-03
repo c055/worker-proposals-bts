@@ -1,7 +1,9 @@
 *CI/UI/UX Design / Web Development
 ==================================================
 
-[Worker Proposal 1.14.28](http://cryptofresh.com/workers)
+[Worker Proposal 1.14.28](http://cryptofresh.com/workers){:target="_blank"}
+[Discussion @ bitsharestalk.org](https://bitsharestalk.org/index.php/topic,20856.msg269530.html#msg269530){:target="_blank"}
+
 
 Preface
 -------
