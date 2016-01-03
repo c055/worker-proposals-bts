@@ -1,6 +1,8 @@
 *CI/UI/UX Design / Web Development
 ==================================================
 
+[Worker Proposal 1.14.28](http://cryptofresh.com/workers)
+
 Preface
 -------
 
@@ -151,17 +153,18 @@ Some references for recently joined community members:
 
 
 
----
-
-
-Changelog
 ---------
-01/02/2016 - references added / preface update / added Worker Prop
-
 
 PGP
 ---------
 This message has been signed with PGP. The cryptographic signature can be found in this git repository and you can verify it with gpg `--verify cass-worker-proposal-1.14.28.md.sig`.
 
----
+---------
+```
+Changelog
+---------
+01/02/2016 - references added / preface update / added Worker Prop
+01/03/2016 - [+] Worker ID 1.14.28
+```
+---------
 <div style="font-size: 8px">*CI = Corporate Identity / UI = User Interface / UX = User Experience</div>
