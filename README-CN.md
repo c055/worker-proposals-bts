@@ -1,5 +1,5 @@
 
-![header](https://raw.githubusercontent.com/cassiopaia/worker-proposals-bts/master/assets/images/header@2x.png)
+![header](https://raw.githubusercontent.com/cassiopaia/worker-proposals-bts/master/assets/images/header-CN@2x.png)
 
 
 <a href="https://github.com/cassiopaia/worker-proposals-bts/blob/master/README.md"><img src="https://cdn.rawgit.com/cassiopaia/worker-proposals-bts/master/assets/images/us.svg" width="24" /></a>
