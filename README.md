@@ -15,9 +15,9 @@ My tasks include branding and website related work as well as user interface des
 
 The complete proposal
 ------
-[Cass Worker Proposal](https://github.com/cassiopaia/worker-proposals-bts/blob/master/cass-worker-proposal-1.14.28.md)
+[Cass Worker Proposal](https://github.com/cassiopaia/worker-proposals-bts/blob/master/cass-worker-proposal-1.14.28-EN.md)
 
 
 
 ------
-[Worker Proposal 1.14.28 @ cryptofresh](http://cryptofresh.com/workers)
+<a href="http://cryptofresh.com/workers" target="_blank">Worker Proposal 1.14.28</a>

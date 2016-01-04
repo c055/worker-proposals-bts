@@ -1,6 +1,6 @@
 *CI/UI/UX Design / Web Development
 ==================================================
-<a href="http://cryptofresh.com/workers" target="_blank" >Worker Proposal 1.14.28</a><br>
+<a href="http://cryptofresh.com/workers" target="_blank" >Worker Proposal 1.14.28</a>
 <a href="https://bitsharestalk.org/index.php/topic,20856.msg269530.html#msg269530" target="_blank" >Discussion @ bitsharestalk.org</a>
 
 Preface
@@ -157,7 +157,7 @@ Some references for recently joined community members:
 
 PGP
 ---------
-This message has been signed with PGP. The cryptographic signature can be found in this git repository and you can verify it with gpg `--verify cass-worker-proposal-1.14.28.md.sig`.
+This message has been signed with PGP. The cryptographic signature can be found in this git repository and you can verify it with gpg `--verify cass-worker-proposal-1.14.28-EN.md.sig`.
 
 ---------
 ```
