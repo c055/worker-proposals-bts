@@ -4,7 +4,7 @@
 <a href="https://bitsharestalk.org/index.php/topic,20856.msg269530.html#msg269530" target="_blank" >Discussion @ bitsharestalk.org</a>
 
 
-Proposal available in <href="https://github.com/cassiopaia/worker-proposals-bts/blob/master/cass-worker-proposal-1.14.28-EN.md"><img src="https://cdn.rawgit.com/cassiopaia/worker-proposals-bts/master/assets/images/us.svg" width="24" /></a>
+Proposal available in <a href="https://github.com/cassiopaia/worker-proposals-bts/blob/master/cass-worker-proposal-1.14.28-EN.md">English</a>
 
 
 前言
