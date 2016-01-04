@@ -2,6 +2,8 @@
 ![header](https://raw.githubusercontent.com/cassiopaia/worker-proposals-bts/master/assets/images/header@2x.png)
 
 
+README available in <href="README.md"><img src="https://cdn.rawgit.com/cassiopaia/worker-proposals-bts/master/assets/images/us.svg" width="24" /></a>
+
 前言
 ------
 
@@ -16,7 +18,7 @@
 
 完整提案
 ------
-[Cass工人提案](https://github.com/cassiopaia/worker-proposals-bts/blob/master/cass-worker-proposal-1.14.28-ZN.md)
+[Cass工人提案](https://github.com/cassiopaia/worker-proposals-bts/blob/master/cass-worker-proposal-1.14.28-CN.md)
 
 
 
