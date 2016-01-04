@@ -3,6 +3,10 @@
 <a href="http://cryptofresh.com/workers" target="_blank" >Worker Proposal 1.14.28</a>
 <a href="https://bitsharestalk.org/index.php/topic,20856.msg269530.html#msg269530" target="_blank" >Discussion @ bitsharestalk.org</a>
 
+
+Proposal available in <href="cass-worker-proposal-1.14.28-CN.md"><img src="../assets/images/cn.svg" width=48 /></a>
+
+
 Preface
 -------
 

@@ -2,6 +2,10 @@
 ![header](https://raw.githubusercontent.com/cassiopaia/worker-proposals-bts/master/assets/images/header@2x.png)
 
 
+Readme available in <href="README-CN.md"><img src="../assets/images/cn.svg" width=48 /></a>
+
+
+
 Preface
 ------
 Since the DAC concept has been developed in 2012 and BitShares has been launched in late 2013, the whole blockchain ecosystem has evolved rapidly. Back then Cryptonomex has not yet existed and the development of BitShares has been done by Invictus Innovations lead by Daniel Larimer. With the founding of Cryptonomex, people have started to believe that Daniel had to continue to work on BitShares for the sake of shareholders profits.
