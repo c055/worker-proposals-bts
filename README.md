@@ -2,7 +2,7 @@
 ![header](https://raw.githubusercontent.com/cassiopaia/worker-proposals-bts/master/assets/images/header@2x.png)
 
 
-Readme available in <href="README-CN.md"><img src="../assets/images/cn.svg" width=48 /></a>
+Readme available in <href="README-CN.md"><img src="https://github.com/cassiopaia/worker-proposals-bts/blob/master/assets/images/cn.svg" width="48" /></a>
 
 
 
